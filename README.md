@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rohanlakkampalli
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning css and python
-- 💞️ I’m looking to collaborate on ...
 - 📫 contact lakkampaliirohan@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ hobbies include football and storywriting
